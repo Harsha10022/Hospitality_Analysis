@@ -22,11 +22,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 # Overall Analysis
 
+![Hopitality overall analysis](https://user-images.githubusercontent.com/101787134/219100217-b4aacb98-5249-474d-9582-4df93a29691f.png)
 
 
 # Monthly Analysis
 
-
+![Hopitality monthly analysis](https://user-images.githubusercontent.com/101787134/219100254-e38d31b1-7698-4d2f-ab9c-bb8055020138.png)
 
 # Some major insights from the dashboard
 
